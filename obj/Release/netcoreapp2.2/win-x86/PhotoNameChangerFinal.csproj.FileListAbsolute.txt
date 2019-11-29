@@ -1,0 +1,15 @@
+C:\Users\blizz\source\repos\PhotoNameChangerFinal\bin\Release\netcoreapp2.2\win-x86\hostpolicy.dll
+C:\Users\blizz\source\repos\PhotoNameChangerFinal\bin\Release\netcoreapp2.2\win-x86\hostfxr.dll
+C:\Users\blizz\source\repos\PhotoNameChangerFinal\bin\Release\netcoreapp2.2\win-x86\PhotoNameChangerFinal.exe
+C:\Users\blizz\source\repos\PhotoNameChangerFinal\bin\Release\netcoreapp2.2\win-x86\PhotoNameChangerFinal.dll.config
+C:\Users\blizz\source\repos\PhotoNameChangerFinal\bin\Release\netcoreapp2.2\win-x86\PhotoNameChangerFinal.deps.json
+C:\Users\blizz\source\repos\PhotoNameChangerFinal\bin\Release\netcoreapp2.2\win-x86\PhotoNameChangerFinal.runtimeconfig.json
+C:\Users\blizz\source\repos\PhotoNameChangerFinal\bin\Release\netcoreapp2.2\win-x86\PhotoNameChangerFinal.runtimeconfig.dev.json
+C:\Users\blizz\source\repos\PhotoNameChangerFinal\bin\Release\netcoreapp2.2\win-x86\PhotoNameChangerFinal.dll
+C:\Users\blizz\source\repos\PhotoNameChangerFinal\bin\Release\netcoreapp2.2\win-x86\PhotoNameChangerFinal.pdb
+C:\Users\blizz\source\repos\PhotoNameChangerFinal\obj\Release\netcoreapp2.2\win-x86\PhotoNameChangerFinal.csprojAssemblyReference.cache
+C:\Users\blizz\source\repos\PhotoNameChangerFinal\obj\Release\netcoreapp2.2\win-x86\PhotoNameChangerFinal.csproj.CoreCompileInputs.cache
+C:\Users\blizz\source\repos\PhotoNameChangerFinal\obj\Release\netcoreapp2.2\win-x86\PhotoNameChangerFinal.AssemblyInfoInputs.cache
+C:\Users\blizz\source\repos\PhotoNameChangerFinal\obj\Release\netcoreapp2.2\win-x86\PhotoNameChangerFinal.AssemblyInfo.cs
+C:\Users\blizz\source\repos\PhotoNameChangerFinal\obj\Release\netcoreapp2.2\win-x86\PhotoNameChangerFinal.dll
+C:\Users\blizz\source\repos\PhotoNameChangerFinal\obj\Release\netcoreapp2.2\win-x86\PhotoNameChangerFinal.pdb
